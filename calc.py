@@ -5,7 +5,7 @@ def insult_calculator():
     print("Enter your math problem (e.g., 2 + 2) or 'quit' to exit:")
     
     insults = [
-        "Even my calculator grandma could solve this, and she's dead.",
+        "Even my mentally challanged grandma could solve this, and she's dead.",
         "If brains were dynamite, you wouldn't have enough to blow your nose.",
         "I've seen smarter potatoes than you.",
         "Your math skills make a banana look like a genius.",
